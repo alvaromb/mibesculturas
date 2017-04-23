@@ -10,12 +10,12 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  style = "red"
+  description = "María Isabel Ballester. Esculturas."
+  copyright = "&copy;2017 María Isabel Ballester"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Escultora, artista. Estudia dos años en la escuela de artes y oficios de Palma, donde desarrolla su obra y también da clases de escultura.",
+    "Nace en Buenos Aires en 1960. Desde 1979 vive en Palma de Mallorca (Baleares), donde descubre y desarrolla su actividad artística."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,27 +29,22 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "mibesculturas@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Works"
   url = ""
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Exhibitions"
+  url = "exhibitions/"
 
   [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Outstanding Works"
+  url = "outstanding/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/esculturasisabelballester"
+  email         = "mibesculturas@gmail.com"
+  instagram     = "https://www.instagram.com/mibesculturas/"
